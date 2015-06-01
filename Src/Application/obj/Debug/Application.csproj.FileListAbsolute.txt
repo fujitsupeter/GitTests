@@ -1,2 +1,4 @@
 F:\GitRepos\GitTests\Src\MySolution\Application\bin\Debug\Application.exe.config
 F:\GitRepos\GitTests\Src\Application\bin\Debug\Application.exe.config
+F:\GitRepos\GitTests\Src\Application\obj\Debug\Application.exe
+F:\GitRepos\GitTests\Src\Application\obj\Debug\Application.pdb
