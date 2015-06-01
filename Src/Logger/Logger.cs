@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Logger
 {
-    public class Class1
+    public static class Logger
     {
+
+        public static void Log(string message)
+        {
+            Console.WriteLine(message);
+        }
+
     }
 }
