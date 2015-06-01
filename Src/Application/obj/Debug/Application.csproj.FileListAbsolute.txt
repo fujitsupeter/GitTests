@@ -1,10 +1,10 @@
-F:\GitRepos\GitTests\Src\MySolution\Application\bin\Debug\Application.exe.config
 F:\GitRepos\GitTests\Src\Application\bin\Debug\Application.exe.config
-<<<<<<< HEAD
-=======
 F:\GitRepos\GitTests\Src\Application\bin\Debug\Application.exe
 F:\GitRepos\GitTests\Src\Application\bin\Debug\Application.pdb
+F:\GitRepos\GitTests\Src\Application\bin\Debug\Downloader.dll
+F:\GitRepos\GitTests\Src\Application\bin\Debug\Logging.dll
+F:\GitRepos\GitTests\Src\Application\bin\Debug\Downloader.pdb
+F:\GitRepos\GitTests\Src\Application\bin\Debug\Logging.pdb
 F:\GitRepos\GitTests\Src\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
->>>>>>> master
 F:\GitRepos\GitTests\Src\Application\obj\Debug\Application.exe
 F:\GitRepos\GitTests\Src\Application\obj\Debug\Application.pdb

@@ -10,6 +10,21 @@ namespace Application
     {
         static void Main(string[] args)
         {
+
+            Logging.Logger.Log("Hello There!");
+            Downloader.DownloaderClass d = new Downloader.DownloaderClass();
+
+            string ds = string.Empty;
+
+            Task<string> t = d.Download("http://www.liteolika.se");
+
+            t.Wait();
+
+            ds = t.Result;
+            
+
+            Console.ReadLine();
+
         }
     }
 }
